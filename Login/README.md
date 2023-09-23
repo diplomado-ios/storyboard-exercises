@@ -1,8 +1,8 @@
 # Login Exercise
 Make the necessary modifications to ensure that the application runs on iPhone and iPad simulators and looks good on each one.
 
-> [IMPORTANT]
-> The base project can be found inside the `Constrains` directory (yep, we made a typo when creating it)
+> [!IMPORTANT]
+> The base project can be found inside the `Constrains` directory (yep, we made a typo when creating it 🤦)
 
 > [!NOTE]
 > Ensure that the applications run smoothly and display the information correctly on both the iPhone and iPad simulators.
