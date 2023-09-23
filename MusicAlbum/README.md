@@ -9,6 +9,9 @@ Develop an application using Storyboards based on your favorite artist or band. 
     - Display the album image.
     - Present the album title.
     - List the songs included in the album.
+    
+## Extra challenge
+Embed your views in a `Navigation Controller`
 
 
 > [!NOTE]
